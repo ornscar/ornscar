@@ -1,4 +1,4 @@
-### Hi there 👋
+<p align="center"><img src="colorhorses.jpeg" width="650" height="400" /></p>
 
 <!--
 **ornscar/ornscar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
